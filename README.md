@@ -1,13 +1,13 @@
 <h1 align="center">Hey folks👋, I'm Renishkar J</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js, Typescript**
+- 🌱 I’m currently learning -> **Next.js, Typescript**
 
 - 👨‍💻 Place to know me more -> [https://renishkar.vercel.app](https://renishkar.vercel.app)
 
-- 📫 How to reach me **renishkar47@gmail.com**
+- 📫 How to reach me -> **renishkar47@gmail.com**
 
-- ⚡ Fun fact **My journey into the world of programming began after I watched the series named Silicon Valley during lockdown. The show's portrayal of coding like a super power fascinated me, igniting a strong attraction towards the world of programming. Since then, I have embraced coding as a means to bring ideas to life and make a tangible impact**
+- ⚡ Fun fact -> **My journey into the world of programming began after I watched the series named Silicon Valley during lockdown. The show's portrayal of coding like a super power fascinated me, igniting a strong attraction towards the world of programming. Since then, I have embraced coding as a means to bring ideas to life and make a tangible impact**
 
 
 
