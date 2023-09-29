@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Renishkar J</h1>
+<h1 align="center">Hi👋, I'm Renishkar J</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 🌱 I’m currently learning **Next.js, Typescript**
@@ -32,7 +32,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renish47&show_icons=true&locale=en&layout=compact" alt="renish47" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renish47&show_icons=true&locale=en" alt="renish47" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renish47&" alt="renish47" /></p>
