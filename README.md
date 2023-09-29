@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://renishkar.vercel.app](https://renishkar.vercel.app)
+- 👨‍💻 Place to know me more -> [https://renishkar.vercel.app](https://renishkar.vercel.app)
 
 - 📫 How to reach me **renishkar47@gmail.com**
 
